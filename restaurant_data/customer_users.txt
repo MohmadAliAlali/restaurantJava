@@ -1,0 +1,4 @@
+moh|1234|ADMIN
+mohh|1234|ADMIN
+mohhhh|1234|USER
+obada|12345678|USER

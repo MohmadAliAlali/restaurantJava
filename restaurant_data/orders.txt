@@ -1,0 +1,3 @@
+ORDER|ORD-1|moh|ADMIN|moh|1234567890|delivery|15|5|FINISH|2025-01-21 12:16:03
+ITEM|hamberger|meet - katchap - tomaito - salat|15|sandoitch|/home/juba/Downloads/مجموعة شباب الذكور في العصر الحالي يتناقشون ضمن مسجد اسلامي مظهرا الاسلوب الاسلامي في الاضائة و الالوان واللباس.png
+END_ORDER
